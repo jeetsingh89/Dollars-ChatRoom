@@ -1,0 +1,37 @@
+.form-input{
+    width: 100%;
+    padding: 5px 10px;
+    border: 1px solid gray;
+    border-radius: 1rem;
+}
+.submit-btn{
+    background-color: black ;
+    color: white;
+    padding: 10px 50px;
+    border: none;
+    border-radius: 1rem;
+    width: 100%;
+}
+#chat-area{
+    min-height: 100vh;
+   /* max-height: 100vh;*/
+    background-color: black;
+    color: white;
+}
+#chat-area{
+    min-height: 100vh;
+    /*max-height: 100vh;*/
+    
+}
+#msg-area{
+    color: white;
+    border-top: 1px solid black;
+}
+.send-msg{
+    background-color: #e92a10;
+    width: 125%;
+    border: none;
+    color: white;
+    height: 100%;
+    border-radius: 12px;
+}
